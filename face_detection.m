@@ -37,7 +37,7 @@ for n = 1:length(nameList)
             fixed_points = [
                 30.2946, 51.6963;
                 65.5318, 51.5014;
-                48.0252, 71 .7366
+                48.0252, 71.7366
             ];
             % landmarks
             moving_points = squeeze(landmarks(1,1:3,1:2));
